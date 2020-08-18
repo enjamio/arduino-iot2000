@@ -83,8 +83,8 @@
               "url": "https://github.com/enjamio/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-osx.tar.gz"
             },
             {
-              "size": "3141735",
-              "checksum": "SHA-256:27c7f3bb0f280cae8ab89acd887ec497c66b21afe28a4e42cfc5ce4f59e24605",
+              "size": "3141735", 
+              "checksum": "SHA-256:27C7F3BB0F280CAE8AB89ACD887EC497C66B21AFE28A4E42CFC5CE4F59E24605",
               "host": "i686-mingw32",
               "archiveFileName": "intel-arduino-tools-20150316-windows.zip",
               "url": "https://github.com/enjamio/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-windows.zip"
