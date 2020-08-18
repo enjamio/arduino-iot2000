@@ -10,7 +10,7 @@
           "architecture": "iot2000",
           "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/Versions/iot2000_1.0.1.zip",
+          "url": "/Versions/iot2000_1.0.1.zip",
           "archiveFileName": "iot2000_1.0.1.zip",
           "checksum": "SHA-256:0fa5c0cb72dff7a472198f489babbd8c6959d445d0007181f97f26bfd0f3ca20",
           "size": "423626",
