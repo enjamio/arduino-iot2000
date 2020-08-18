@@ -5,7 +5,7 @@
 1. Install [Arduino IDE](https://www.arduino.cc/en/main/software)
 1. Start Arduino IDE 
 1. In Arduino IDE select ***File->Preferences***
-1. Enter or copy-paste text in field ***Additional Borad Manager URL's:***
+1. Enter or copy-paste text in field ***Additional Board Manager URL's:***
 https://raw.githubusercontent.com/enjamio/arduino-iot2000/master/package_iot2000_index.json
 1. Close Preferences
 1. In Arduino IDE select ***Tools->Board xx->Boards Manager..***
